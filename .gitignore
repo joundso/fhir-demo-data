@@ -1,0 +1,11 @@
+## Ignore everyhing:
+/*
+/*/
+
+## But not these:
+!/.gitignore
+!/CHANGELOG.md
+!/README.md
+!/fhir
+/fhir/*
+!/fhir/*.json
