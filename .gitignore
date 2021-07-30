@@ -9,3 +9,4 @@
 !/fhir
 /fhir/*
 !/fhir/*.json
+!/send_ressources.sh
